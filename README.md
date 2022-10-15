@@ -3,7 +3,7 @@
 
 # 📖Commit Rule
 * fileName - BOJ_(QuestionNumber) ex) BOJ_1000
-* commitMessage - yy-mm-dd   ex) 22-10-13
+* commitMessage - yyyy-mm-dd   ex) 2022-10-13
 ### * 👨‍👨‍👧 Member
 * 김정현 - Using Language `JAVA`
 * 지석민 - Using Language `C` 
